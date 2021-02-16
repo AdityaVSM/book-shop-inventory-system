@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class book	{
+class book{
 private:
 	char *author,*title,*publisher;
 	float *price;
@@ -137,8 +137,7 @@ int main()	{
 				break;
 			
 			case 5: exit(0);
-			default: cout<<"\nInvalid Choice Entered";
-			
+			default: cout<<"\nInvalid Choice Entered";k
 		}
 	}
 	
